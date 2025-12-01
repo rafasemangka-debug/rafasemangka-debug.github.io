@@ -589,7 +589,7 @@ scene.add(planet);
 const ringTexts = [
   'Galaxy of love From Raya',//untuk deskripsi planet layer 1
   "I love you",//untuk deskripsi planet layer 2
-  "♡Happy Birthday♡",//untuk deskripsi planet layer 3
+  "♡Happy Birthday Keyla♡",//untuk deskripsi planet layer 3
   "02/12/2025",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
